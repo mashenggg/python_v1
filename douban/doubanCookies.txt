@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: bid=Rayt1TltVLM; path="/"; domain=".douban.com"; path_spec; domain_dot; expires="2020-04-27 06:23:45Z"; version=0
